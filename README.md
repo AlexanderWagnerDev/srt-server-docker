@@ -1,6 +1,6 @@
 # SRT-Server for Docker
 
-For amd64 systems: docker run -d --name srt-server --restart always -p 8181:8181/tcp -p 8282:8282/udp alexanderwagnerdev/srt-server:latest
+For amd64 systems: docker run -d --name srt-server --restart always -p 8181:8181/tcp -p 8282:8282/udp alexanderwagnerdev/srt-server:latest-amd64
 
 For arm64 systems: docker run -d --name srt-server --restart always -p 8181:8181/tcp -p 8282:8282/udp alexanderwagnerdev/srt-server:latest-arm64
 
