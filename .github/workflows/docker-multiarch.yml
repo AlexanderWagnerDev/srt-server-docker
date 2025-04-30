@@ -31,4 +31,4 @@ jobs:
           push: true
           tags: |
             alexanderwagnerdev/srt-server:latest
-            alexanderwagnerdev/srt-server:${{ github.sha }}
+            alexanderwagnerdev/srt-server:v0.0.1
