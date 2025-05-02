@@ -1,6 +1,6 @@
 # SRT-Server for Docker
 
-### OLD, USE https://github.com/AlexanderWagnerDev/srtla-server-docker INSTEAD OFF SRT-SEVRER-DOCKER
+### OLD, USE https://github.com/AlexanderWagnerDev/srtla-server-docker INSTEAD OF SRT-SEVRER-DOCKER
 
 For all systems: docker run -d --name srt-server --restart always -p 8181:8181/tcp -p 8282:8282/udp alexanderwagnerdev/srt-server:latest
 
